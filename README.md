@@ -18,4 +18,4 @@ An R script called run_analysis.R was developed to tidy the abovementioned datas
 Details of all the variables in the tidy dataset are provided in [CodeBook.md](https://github.com/mboodraj/getting-and-cleaning-data/blob/master/CodeBook.md).
 
 ### Output
-The final tidy dataset is provided as tidy_data.txt.
+The final tidy dataset is provided as [tidy_data.txt](https://github.com/mboodraj/getting-and-cleaning-data/blob/master/tidy_data.txt).
