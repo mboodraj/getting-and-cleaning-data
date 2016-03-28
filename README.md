@@ -15,7 +15,7 @@ An R script called run_analysis.R was developed to tidy the abovementioned datas
 5. Creating a second, independent tidy data set (from the data in Step 4) with the average of each variable for each activity and each subject.
 
 ### Code Book
-Details of all the variables in the tidy dataset are provided in CodeBook.md.
+Details of all the variables in the tidy dataset are provided in [CodeBook.md](https://github.com/mboodraj/getting-and-cleaning-data/blob/master/CodeBook.md).
 
 ### Output
 The final tidy dataset is provided as tidy_data.txt.
