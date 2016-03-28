@@ -8,7 +8,7 @@ The data for this exercuse were collected from the accelerometers of a Samsung G
 
 ### Analysis
 An R script called run_analysis.R was developed to tidy the abovementioned dataset by:
-1. Item 1 Merging the training and the test sets to create one data set.
+1. Merging the training and the test sets to create one data set.
 2. Extracting only the measurements on the mean and standard deviation for each measurement.
 3. Using descriptive activity names to name the activities in the data  set.
 4. Appropriately labelling the data set with descriptive variable names.
