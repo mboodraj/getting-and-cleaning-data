@@ -1,8 +1,8 @@
 # Code Book
 The tidy data set contains the following variables:
-*subject
-*activity
-*tBodyAcc-XYZ
+subject
+activity
+tBodyAcc-XYZ
 tGravityAcc-XYZ
 tBodyAccJerk-XYZ
 tBodyGyro-XYZ
