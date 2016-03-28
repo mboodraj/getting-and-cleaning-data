@@ -1,3 +1,4 @@
+# codebook
 The tidy data set contains the following variables:
 	subject
 	activity
